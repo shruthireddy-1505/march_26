@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shruthireddy-1505/march_26/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/shruthireddy-1505/march_26/tree/master/0078-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/shruthireddy-1505/march_26/tree/master/0907-sum-of-subarray-minimums) |
 ## Binary Search
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/shruthireddy-1505/march_26/tree/master/0907-sum-of-subarray-minimums) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shruthireddy-1505/march_26/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shruthireddy-1505/march_26/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
