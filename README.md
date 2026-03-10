@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shruthireddy-1505/march_26/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shruthireddy-1505/march_26/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/shruthireddy-1505/march_26/tree/master/0078-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/shruthireddy-1505/march_26/tree/master/0907-sum-of-subarray-minimums) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/shruthireddy-1505/march_26/tree/master/0402-remove-k-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/shruthireddy-1505/march_26/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
