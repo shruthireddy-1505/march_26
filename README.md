@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shruthireddy-1505/march_26/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shruthireddy-1505/march_26/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/shruthireddy-1505/march_26/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/shruthireddy-1505/march_26/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/shruthireddy-1505/march_26/tree/master/0907-sum-of-subarray-minimums) |
 ## Binary Search
 |  |
@@ -32,15 +33,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/shruthireddy-1505/march_26/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/shruthireddy-1505/march_26/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/shruthireddy-1505/march_26/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/shruthireddy-1505/march_26/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/shruthireddy-1505/march_26/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/shruthireddy-1505/march_26/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/shruthireddy-1505/march_26/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/shruthireddy-1505/march_26/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
@@ -76,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shruthireddy-1505/march_26/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/shruthireddy-1505/march_26/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
