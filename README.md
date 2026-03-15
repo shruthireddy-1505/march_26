@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shruthireddy-1505/march_26/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/shruthireddy-1505/march_26/tree/master/0735-asteroid-collision) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shruthireddy-1505/march_26/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/shruthireddy-1505/march_26/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/shruthireddy-1505/march_26/tree/master/0085-maximal-rectangle) |
+| [0735-asteroid-collision](https://github.com/shruthireddy-1505/march_26/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/shruthireddy-1505/march_26/tree/master/0907-sum-of-subarray-minimums) |
 ## Binary Search
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shruthireddy-1505/march_26/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/shruthireddy-1505/march_26/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/shruthireddy-1505/march_26/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/shruthireddy-1505/march_26/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/shruthireddy-1505/march_26/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
