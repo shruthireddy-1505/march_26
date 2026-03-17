@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruthireddy-1505/march_26/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/shruthireddy-1505/march_26/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shruthireddy-1505/march_26/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/shruthireddy-1505/march_26/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/shruthireddy-1505/march_26/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/shruthireddy-1505/march_26/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruthireddy-1505/march_26/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/shruthireddy-1505/march_26/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shruthireddy-1505/march_26/tree/master/0242-valid-anagram) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shruthireddy-1505/march_26/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -101,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shruthireddy-1505/march_26/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shruthireddy-1505/march_26/tree/master/0242-valid-anagram) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shruthireddy-1505/march_26/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
