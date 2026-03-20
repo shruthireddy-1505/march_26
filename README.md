@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shruthireddy-1505/march_26/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/shruthireddy-1505/march_26/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/shruthireddy-1505/march_26/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/shruthireddy-1505/march_26/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/shruthireddy-1505/march_26/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/shruthireddy-1505/march_26/tree/master/0907-sum-of-subarray-minimums) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shruthireddy-1505/march_26/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shruthireddy-1505/march_26/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shruthireddy-1505/march_26/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shruthireddy-1505/march_26/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/shruthireddy-1505/march_26/tree/master/0560-subarray-sum-equals-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shruthireddy-1505/march_26/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -120,5 +122,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shruthireddy-1505/march_26/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/shruthireddy-1505/march_26/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/shruthireddy-1505/march_26/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
