@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/shruthireddy-1505/march_26/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/shruthireddy-1505/march_26/tree/master/0735-asteroid-collision) |
+| [2352-equal-row-and-column-pairs](https://github.com/shruthireddy-1505/march_26/tree/master/2352-equal-row-and-column-pairs) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/shruthireddy-1505/march_26/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/shruthireddy-1505/march_26/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shruthireddy-1505/march_26/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/shruthireddy-1505/march_26/tree/master/2352-equal-row-and-column-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/shruthireddy-1505/march_26/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shruthireddy-1505/march_26/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shruthireddy-1505/march_26/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/shruthireddy-1505/march_26/tree/master/2352-equal-row-and-column-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shruthireddy-1505/march_26/tree/master/0085-maximal-rectangle) |
+| [2352-equal-row-and-column-pairs](https://github.com/shruthireddy-1505/march_26/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
