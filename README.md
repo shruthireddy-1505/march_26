@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruthireddy-1505/march_26/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/shruthireddy-1505/march_26/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shruthireddy-1505/march_26/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/shruthireddy-1505/march_26/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shruthireddy-1505/march_26/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/shruthireddy-1505/march_26/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/shruthireddy-1505/march_26/tree/master/0412-fizz-buzz) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruthireddy-1505/march_26/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0208-implement-trie-prefix-tree](https://github.com/shruthireddy-1505/march_26/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shruthireddy-1505/march_26/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shruthireddy-1505/march_26/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shruthireddy-1505/march_26/tree/master/0349-intersection-of-two-arrays) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shruthireddy-1505/march_26/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/shruthireddy-1505/march_26/tree/master/0208-implement-trie-prefix-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/shruthireddy-1505/march_26/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/shruthireddy-1505/march_26/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
