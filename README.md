@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/shruthireddy-1505/march_26/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/shruthireddy-1505/march_26/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/shruthireddy-1505/march_26/tree/master/0867-transpose-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/shruthireddy-1505/march_26/tree/master/2352-equal-row-and-column-pairs) |
 ## Array
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shruthireddy-1505/march_26/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shruthireddy-1505/march_26/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shruthireddy-1505/march_26/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/shruthireddy-1505/march_26/tree/master/0867-transpose-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/shruthireddy-1505/march_26/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shruthireddy-1505/march_26/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/shruthireddy-1505/march_26/tree/master/1207-unique-number-of-occurrences) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shruthireddy-1505/march_26/tree/master/0085-maximal-rectangle) |
+| [0867-transpose-matrix](https://github.com/shruthireddy-1505/march_26/tree/master/0867-transpose-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/shruthireddy-1505/march_26/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
