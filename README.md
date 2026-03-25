@@ -147,4 +147,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shruthireddy-1505/march_26/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shruthireddy-1505/march_26/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/shruthireddy-1505/march_26/tree/master/1732-find-the-highest-altitude) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shruthireddy-1505/march_26/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shruthireddy-1505/march_26/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shruthireddy-1505/march_26/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shruthireddy-1505/march_26/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
