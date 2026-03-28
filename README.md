@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shruthireddy-1505/march_26/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shruthireddy-1505/march_26/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/shruthireddy-1505/march_26/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shruthireddy-1505/march_26/tree/master/0035-search-insert-position) |
@@ -107,10 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shruthireddy-1505/march_26/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/shruthireddy-1505/march_26/tree/master/0402-remove-k-digits) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shruthireddy-1505/march_26/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/shruthireddy-1505/march_26/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shruthireddy-1505/march_26/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/shruthireddy-1505/march_26/tree/master/0042-trapping-rain-water) |
