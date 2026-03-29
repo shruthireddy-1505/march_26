@@ -177,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/shruthireddy-1505/march_26/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shruthireddy-1505/march_26/tree/master/0210-course-schedule-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shruthireddy-1505/march_26/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shruthireddy-1505/march_26/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
