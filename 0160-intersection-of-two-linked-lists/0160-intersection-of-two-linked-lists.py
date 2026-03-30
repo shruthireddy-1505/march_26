@@ -19,6 +19,9 @@ class Solution:
             tempA = tempA.next
         return None
         """
+        """
+        time optimiztion
+
         s = set()
         tempA = headA
         while tempA:
@@ -30,5 +33,33 @@ class Solution:
                 return tempB
             tempB = tempB.next
         return None
+        """
+
+        ltempA = headA
+        tempA = headA
+
+        ltempB = headB
+        tempB = headB
+
+        count1 = 0
+        count2 = 0
+        while ltempA:
+            count1+=1
+            ltempA = ltempA.next
+        while ltempB:
+            count2+=1
+            ltempB = ltempB.next
+        while count1>count2:
+            tempA = tempA.next
+            count1 -= 1
+        while count2>count1:
+            tempB = tempB.next
+            count2 -= 1
+        while tempA!=tempB:
+            tempA = tempA.next
+            tempB = tempB.next
+        return tempA
+
+
 
         
