@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shruthireddy-1505/march_26/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shruthireddy-1505/march_26/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/shruthireddy-1505/march_26/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/shruthireddy-1505/march_26/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shruthireddy-1505/march_26/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shruthireddy-1505/march_26/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/shruthireddy-1505/march_26/tree/master/0349-intersection-of-two-arrays) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shruthireddy-1505/march_26/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shruthireddy-1505/march_26/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shruthireddy-1505/march_26/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/shruthireddy-1505/march_26/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shruthireddy-1505/march_26/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/shruthireddy-1505/march_26/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shruthireddy-1505/march_26/tree/master/0160-intersection-of-two-linked-lists) |
